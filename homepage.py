@@ -1099,7 +1099,7 @@ class Ui_Homewindow(object):
         self.pricelist.setText(_translate("Homewindow", "Price List"))
         self.receipt.setText(_translate("Homewindow", "Generate Receipt"))
         self.total.setText(_translate("Homewindow", "Total"))
-        self.reset.setText(_translate("Homewindow", "Reset The Entries"))
+        self.reset.setText(_translate("Homewindow", "Reset"))
 
 
 if __name__ == "__main__":
